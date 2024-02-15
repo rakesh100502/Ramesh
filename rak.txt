@@ -1,0 +1,26 @@
+<div style="text.align:center;"><img style="width: 5%;display:block;margin: 0px auto;" src="RakeshAravind.jpeg"></div>
+
+<div style="text-algin:center; margin-top:40px;">
+<a style="padding-right: 20px;href="#">home</a>
+<a style="padding-right: 20px;href="#">about</a>
+<a style="padding-right: 20px;href="#">services</a>
+</div>
+<h1 style="font-size:50px; text-align:center;">Rakesh Aravindh</h1>
+<p style="font-size:20px; text-align:center; line-height: 30px; margin-bottom:50px;">Address:No:7/14 street Ragavan nagar Everdy colony <br>Kodungaiyur chennai-6000118 <br>Contact:7871459435</p>
+
+<div style="text-align:center;"><a style="font-size:10px; background-color: red; padding: 10px 25px 10px 25px; 
+color:white;"href="https://www.google.com/">Read more</a></div>
+
+<hr style="width: 60%;"> 
+
+<h1 style="font-size:50px; text-align:center;">Images</h1>
+
+<img style="width: 33%;" src="Raki1.jpg">
+<img style="width: 33%;" src="Raki2.jpeg">
+<img style="width: 33%;" src="Raki3.jpeg">
+
+<h1 style="font-size:50px; text-align:center;">Video</h1>
+
+<center><div style="object width="560" height="315">
+<video src="video/RakeshAravind.mp4" controls/>
+</div></center>
